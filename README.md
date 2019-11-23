@@ -1,4 +1,4 @@
-# Practica2
+# Practica3
 
 This program is useful to create, consult, remove and modify recipes.
 
